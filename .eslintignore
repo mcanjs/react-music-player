@@ -1,0 +1,4 @@
+/node_modules/*
+tests
+/src/serviceWorker.js
+/src/index.js
