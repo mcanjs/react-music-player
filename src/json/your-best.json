@@ -1,0 +1,20 @@
+{
+    "bigCover": {
+        "artist": "Şehinşah",
+        "noSpaceArtist": "sehinsah",
+        "songName": "Yak Yak Yak",
+        "noSpaceName": "yakyakyak",
+        "cover": "sehinsah-big-cover",
+        "monthlyListening": 35
+    },
+    "smallCover": [
+        {
+            "artist": "İstanbul Trip",
+            "noSpaceArtist": "istanbulTrip",
+            "songName": "Kural Ne Bilmiyorum",
+            "noSpaceName": "kuralnebilmiyorum",
+            "cover": "sehinsah-small-cover",
+            "monthlyListening": 30
+        }
+    ]
+}

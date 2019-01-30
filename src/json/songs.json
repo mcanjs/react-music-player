@@ -1,0 +1,77 @@
+{
+    "sehinsah": [
+        {
+            "tr": "Şehinşah",
+            "songName": "Kaçarsa Vur",
+            "noSpaceName": "kacarsavur",
+            "image": "sehinsah-kacarsavur",
+            "id": 0
+        },
+        {
+            "tr": "Şehinşah",
+            "songName": "Yak Yak Yak",
+            "noSpaceName": "yakyakyak",
+            "image": "sehinsah-yakyakyak",
+            "id": 1
+        },
+        {
+            "tr": "Şehinşah",
+            "songName": "Milyon",
+            "noSpaceName": "milyon",
+            "image": "sehinsah-milyon",
+            "id": 2
+        },
+        {
+            "tr": "Şehinşah",
+            "songName": "Karma",
+            "noSpaceName": "karma",
+            "image": "sehinsah-karma",
+            "id": 3
+        }
+    ],
+    "musta": [
+        {
+            "tr": "Muşta",
+            "songName": "Islah",
+            "noSpaceName": "islah",
+            "image": "musta-islah",
+            "id": 4
+        }
+    ],
+    "istanbulTrip": [
+        {
+            "tr": "İstanbul Trip",
+            "songName": "Kural Ne Bilmiyorum",
+            "noSpaceName": "kuralnebilmiyorum",
+            "image": "istanbulTrip-kuralnebilmiyorum",
+            "id": 5
+        }
+    ],
+    "khontkar": [
+        {
+            "tr": "Khontkar",
+            "songName": "RedKeyGang",
+            "noSpaceName": "redkeygang",
+            "image": "khontkar-redkeygang",
+            "id": 6
+        }
+    ],
+    "saniser": [
+        {
+            "tr": "Şanışer",
+            "songName": "Yalnız Kalır",
+            "noSpaceName": "yalnizkalir",
+            "image": "saniser-yalnizkalir",
+            "id": 7
+        }
+    ],
+    "asapferg": [
+        {
+            "tr": "A$AP Ferg",
+            "songName": "Plain Jane",
+            "noSpaceName": "plainjane",
+            "image": "asapferg-plainjane",
+            "id": 8
+        }
+    ]
+}

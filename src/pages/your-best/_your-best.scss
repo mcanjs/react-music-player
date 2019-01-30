@@ -1,0 +1,58 @@
+section {
+    &#your-best {
+        .dynamic-content {
+            margin-bottom: 120px;
+            .big-cover-container {
+                position: absolute;
+                top: 0;
+                z-index: 50;
+                padding: 0;
+                filter: drop-shadow(1.2rem 0.3rem 0.9rem $black);
+                .big-cover {
+                    padding: 0;
+                    &:hover {
+                        img {
+                            transition: all .3s ease-in-out;
+                            filter: brightness(.3);
+                        }
+                        .text {
+                            display: flex;
+                            top: 0;
+                            color: $white;
+                        }
+                    }
+                    transition: all .3s ease-in-out;
+                    .text {
+                        display: none;
+                    }
+                }
+            }
+            .small-covers-container {
+                .small-covers {
+                    margin-top: 15px;
+                    .item {
+                        &:hover {
+                            img {
+                                transition: all .3s ease-in-out;
+                                filter: brightness(.3);
+                            }
+                            .text {
+                                display: flex;
+                                top: 0;
+                                color: $white;
+                            }
+                        }
+                        .text {
+                            width: calc( 100% - 30px );
+                            display: none;
+                        }
+                    }
+                }
+            }
+            img {
+                width: 100%;
+                height: auto;
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+.footer-corner {
+    height: 80px;
+    bottom: 0;
+    background-color: $pink;
+    color: $black;
+    .left {
+        .current-play-image {
+            img {
+                max-width: 64px;
+                max-height: 64px;
+            }
+        }
+    }
+    .right {
+        .controls {
+            i {
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+            }
+        }
+        #footer-progress {
+            cursor: pointer;
+        }
+    }
+}
