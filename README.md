@@ -18,7 +18,7 @@ The folders you want to modify have a sequence rule.
 * The content of pages or "Component"s is in "Pages" and "Sections".
 * Static data is in "JSON" file
 
-## Changes To
+## Changes To :bell:
 
 => If current music ended, next music auto played :speaker:<br>
 => If keyboard right arrow pressing, next music auto played :arrow_right: <br>
