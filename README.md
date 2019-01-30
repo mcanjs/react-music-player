@@ -18,5 +18,9 @@ The folders you want to modify have a sequence rule.
 * The content of pages or "Component"s is in "Pages" and "Sections".
 * Static data is in "JSON" file
 
-## Getting started with the project
-WITH REACT.JS
+## Changes To
+
+=> If current music ended, next music auto played :speaker:<br>
+=> If keyboard right arrow pressing, next music auto played :arrow_right: <br>
+=> If keyboard left arrow pressing, previous music auto played :arrow_left:<br>
+=> "Your-best" page is created :new:
